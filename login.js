@@ -1,4 +1,4 @@
-function checkPasswort() {
+function checkPassword() {
   const givenPassword = document.createElementById("passwordInput").value;
   const correctPassword = "Ily,Martin<3";
 
